@@ -25,13 +25,13 @@ span img {
   }
 
   .login-input {
-      height: 35;
+      height: 35px;
       background-color: #D3C3C3;
       border-color: #000000;
       flex: 1;
-      flex-direction: 'row';
-      align-items: 'center';
-      padding-right: 90;
+      flex-direction: row;
+      align-items: center;
+      padding-right: 90px;
       border-radius: 100px;
   }
 
@@ -40,28 +40,28 @@ span img {
   }
 
   .button-style {
-    height: 35;
+    height: 35px;
     background-color: #FFFFFF;
     border-color: #000000;
     flex: 1;
-    border-width: 1;
+    border-width: 1px;
     text-align: center;
-    flex-direction: 'row';
-    margin-left: 15;
-    padding-left: 80;
-    padding-right: 85;
-    align-items: 'center';
+    flex-direction: row;
+    margin-left: 15px;
+    padding-left: 80px;
+    padding-right: 85px;
+    align-items: center;
   }
 
 
   .login-input {
-      height: 35;
+      height: 35px;
       background-color: #D3C3C3;
       border-color: #000000;
       flex: 1;
-      flex-direction: 'row';
-      align-items: 'center';
-      padding-right: 90;
+      flex-direction: row;
+      align-items: center;
+      padding-right: 90px;
       border-radius: 100px;
   }
 
@@ -70,16 +70,16 @@ span img {
   }
 
   .button-style {
-    height: 35;
+    height: 35px;
     background-color: #FFFFFF;
     border-color: #000000;
     flex: 1;
-    border-width: 1;
+    border-width: 1px;
     text-align: center;
-    flex-direction: 'row';
-    margin-left: 15;
-    padding-left: 80;
-    padding-right: 85;
-    align-items: 'center';
+    flex-direction: row;
+    margin-left: 15px;
+    padding-left: 80px;
+    padding-right: 85px;
+    align-items: center;
   }
 
