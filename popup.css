@@ -53,3 +53,33 @@ span img {
     align-items: 'center';
   }
 
+
+  .login-input {
+      height: 35;
+      background-color: #D3C3C3;
+      border-color: #000000;
+      flex: 1;
+      flex-direction: 'row';
+      align-items: 'center';
+      padding-right: 90;
+      border-radius: 100px;
+  }
+
+  .bottom-margin {
+      margin-bottom: 30px;
+  }
+
+  .button-style {
+    height: 35;
+    background-color: #FFFFFF;
+    border-color: #000000;
+    flex: 1;
+    border-width: 1;
+    text-align: center;
+    flex-direction: 'row';
+    margin-left: 15;
+    padding-left: 80;
+    padding-right: 85;
+    align-items: 'center';
+  }
+
