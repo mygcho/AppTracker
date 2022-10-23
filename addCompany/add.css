@@ -1,4 +1,53 @@
 body{
     width: 250px;
     height:400px;
+    margin: 15px;
+}
+
+/* h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 25px;
+} */
+
+p {
+    margin-top: 3px;
+    margin-bottom: 2px;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color:aquamarine;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+  }
+
+  div
+{
+    text-align: center;
+    bottom: 0;
+}
+
+span img
+{
+    width: 40px;
+    height: 40px;
+    margin-top: 45px;
+}
+
+span:first-child
+{
+    float: left;
+}
+
+span:last-child
+{
+    float: right;
 }
