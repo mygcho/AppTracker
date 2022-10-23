@@ -5,9 +5,6 @@
     "version": "1.0",
     "action": {
       "default_popup": "popup.html",
-      "default_icon": "miniLogo.png"
-    },
-    "web_accessible_resources": [
-      "images/*.png"
-    ]
+      "default_icon": "white-mini-logo.png"
+    }
   }
