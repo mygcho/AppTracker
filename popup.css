@@ -1,0 +1,63 @@
+body{
+    width: 250px;
+    height:400px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 12px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -10px;
+  }
+
+  .login-input {
+      height: 35;
+      background-color: #D3C3C3;
+      border-color: #000000;
+      flex: 1;
+      flex-direction: 'row';
+      align-items: 'center';
+      padding-right: 90;
+      border-radius: 100px;
+  }
+
+  .bottom-margin {
+      margin-bottom: 30px;
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 40px;
+    width: 60px;
+    text-decoration: none;
+    margin: 5px 80px;
+}
+
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+
+.fa-github {
+    background: #cb2027;
+    color: white;
+}
+
+.fa-google {
+    background: #ff5700;
+    color: white;
+}
+
+.fa-facebook {
+    background: #ff5700;
+    color: white;
+}
